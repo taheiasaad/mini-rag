@@ -1,6 +1,6 @@
 # mini-rag
 this is myy first trying on rag and I want to make amazing thing 
-impelemntation for amazing mini-rag -app
+impelemntation for amazing mini-rag -app.
 
 
 ## Requirements
